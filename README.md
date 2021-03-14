@@ -53,10 +53,6 @@
         <span>NodeJs</span><br><br><br>
         <img height="64px" src="https://img.icons8.com/color/452/nodejs.png">
       </td>
-      <td width="100px" align="center">
-        <span>C++</span><br><br><br>
-        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/800px-ISO_C%2B%2B_Logo.svg.png">
-      </td>
     </tr>
   </tbody>
 </table>

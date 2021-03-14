@@ -3,7 +3,7 @@
 <H1>This is Shresth Bharadia </H1>
 
 - I am a computer science engineering student and always energetic and eager to learn new skills currently pursuing B.tech degree in Computer Science and Engineering from Indian Institute of Information Technology, Dharwad. 
-<div style='display:flex;'>
+<div style='display:flex; padding:2em'>
 <img src="https://github-readme-stats.vercel.app/api?username=shresth2102001&show_icons=true&title_color=03fc90&icon_color=03fc90&text_color=03fc90&bg_color=002b19">
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=shresth2102001&show_icons=true&title_color=03fc90&icon_color=03fc90&text_color=03fc90&bg_color=002b19">
 </div>

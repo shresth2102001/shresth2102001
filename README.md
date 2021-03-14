@@ -7,6 +7,7 @@
 - 📱Programmer
 - ⚛️ I ❤️ Full Stack 
 - ⚛️ I ❤️ Flutter
+- ⚛️ I ❤️ React
 - ⚛️ I ❤️ ML
 - 👷🏽‍♂️Looking for Opportunities
 

@@ -1,7 +1,9 @@
 ### Hi there 👋
 </br>
 </br>
-<H1>This is Shresth Bharadia</H1>
+<H1>This is Shresth Bharadia </H1>
+
+- 💬 I am a computer science engineering student and always energetic and eager to learn new skills currently pursuing B.tech degree in Computer Science and Engineering from Indian Institute of Information Technology, Dharwad. 
 
 <!--
 **shresth2102001/shresth2102001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

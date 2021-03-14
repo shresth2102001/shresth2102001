@@ -1,6 +1,5 @@
 ### Hi there 👋
 </br>
-</br>
 <H1>This is Shresth Bharadia </H1>
 
 - 💬 I am a computer science engineering student and always energetic and eager to learn new skills currently pursuing B.tech degree in Computer Science and Engineering from Indian Institute of Information Technology, Dharwad. 

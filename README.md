@@ -1,6 +1,7 @@
 ### Hi there 👋
-I am shresth bharahia
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<shresth2102001>&theme=<THEME_NAME>" />
+</br>
+</br>
+<H1>This is Shresth Bharadia</H1>
 
 <!--
 **shresth2102001/shresth2102001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

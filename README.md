@@ -5,7 +5,8 @@
 - I am a computer science engineering student, always energetic and eager to learn new skills, currently pursuing B.tech degree in Computer Science and Engineering from Indian Institute of Information Technology, Dharwad. 
 ### I'm Currently
 - 📱Programmer
--  I ❤️ Full Stack 
+-  I ❤️ Full Stack
+-  I ❤️ Python
 -  I ❤️ Flutter
 -  I ❤️ React
 -  I ❤️ ML

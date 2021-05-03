@@ -83,6 +83,11 @@
 <img src="https://github-readme-stats.vercel.app/api?username=shresth2102001&show_icons=true&title_color=03fc90&icon_color=03fc90&text_color=03fc90&bg_color=002b19">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=shresth2102001&show_icons=true&title_color=03fc90&icon_color=03fc90&text_color=03fc90&bg_color=002b19"
 </p>
 <hr>
+<h2 align="center">Github Trophies</h2>
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=shresth2102001&theme=darkhub">
+</p>
+<hr>
  </br>
  <hr>
 <h2 align="center">Visitor Count</h2>

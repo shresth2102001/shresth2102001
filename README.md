@@ -1,7 +1,7 @@
 
 <H1>This is Shresth Bharadia </H1>
 
-- I am a computer science engineering student at Indian Institute of Information Technology, Dharwad. My Objective is to explore and execute “my learning and explorations” for finding solutions of the real-world problems in the field of technology and being a part of an organization as Intern, which motivates me to explore this creative world with my own creative paths, also building a “product” which will be helpful to take “my creative ideas” to the level of executions.
+- I am a computer science engineering student at Indian Institute of Information Technology, Dharwad. My Objective is to explore and execute “my learning and explorations” for finding solutions of the real-world problems in the field of technology which motivates me to explore this creative world with my own creative paths, also building a “product” which will be helpful to take “my creative ideas” to the level of executions.
 
 ### I'm Currently
 - 📱Programmer

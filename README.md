@@ -28,11 +28,11 @@
       </td>
       <td width="100px" align="center">
         <span>HTML5</span><br><br><br>
-        <img height="64px" src="https://user-images.githubusercontent.com/57027463/157062050-6336b5ab-705a-4c71-905e-e00d814ae2a5.png">
+        <img height="64px" src="https://user-images.githubusercontent.com/57027463/157062559-a6b8602c-62c1-44ee-8fe1-73c76c0bb249.png">
       </td>
       <td width="100px" align="center">
         <span>CSS</span><br><br><br>
-        <img height="64px" src="https://cdn.worldvectorlogo.com/logos/css3.svg">
+        <img height="64px" src="https://user-images.githubusercontent.com/57027463/157062896-dac23fb3-6022-4f2e-9b12-77df5b871976.png">
       </td>
        <td width="100px" align="center">
         <span>MongoDb Atlas</span><br><br><br>

@@ -28,7 +28,7 @@
       </td>
       <td width="100px" align="center">
         <span>HTML5</span><br><br><br>
-        <img height="64px" src="![image](https://user-images.githubusercontent.com/57027463/157062050-6336b5ab-705a-4c71-905e-e00d814ae2a5.png)">
+        <img height="64px" src="https://user-images.githubusercontent.com/57027463/157062050-6336b5ab-705a-4c71-905e-e00d814ae2a5.png">
       </td>
       <td width="100px" align="center">
         <span>CSS</span><br><br><br>
